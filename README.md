@@ -1,5 +1,5 @@
 # stock_trainer
-a program to train myself to better understand stocks, and later to implement AI 
+A program to train myself to better understand stocks, and later a base to train AI to better understand stocks 
 
 Steps : 
 - Gather Stock Data & preprocess it
